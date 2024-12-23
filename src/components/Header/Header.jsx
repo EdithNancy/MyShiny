@@ -22,7 +22,7 @@ export default function Header() {
                         </a>
                         <button
                             type="button"
-                            className="p-1 px-5 font-bold text-white rounded-3xl font-montsExtraBold bg-secondary"
+                            className="p-1 px-5 font-bold text-white text-h2 rounded-3xl font-montsExtraBold bg-secondary"
                         >
                             Faire le texte
                         </button>

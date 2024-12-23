@@ -17,6 +17,12 @@ export default {
                 montsSemiBold: ['Montserrat-SemiBold', 'sans-serif'],
                 montsExtraBold: ['Montserrat-ExtraBold', 'sans-serif'],
             },
+            fontSize: {
+                h1: '20px',
+                h2: '25px',
+                h3: '30px',
+                h4: '50px',
+            },
         },
     },
     plugins: [],
