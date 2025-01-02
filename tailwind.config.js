@@ -17,7 +17,7 @@ export default {
                 poppinExtraBold: ['Poppins-ExtraBold', 'sans-serif'],
             },
             fontSize: {
-                h1: ['17px', '20px'],
+                h1: ['15px', '20px'],
                 h2: ['20px', '30px'],
                 h3: ['25px', '35px'],
                 h4: ['35px', '40px'],
